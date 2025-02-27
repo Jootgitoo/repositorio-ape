@@ -1,0 +1,29 @@
+LEASING = alquiler financiero
+	Ventajas fiscales
+	Alquiler de un vehículo hasta el final de su vida útil, ahí puedes pagar y comprarlo o no.
+	Más barato que el renting
+
+
+RENTING
+
+
+Leasing pagas el alquiler. En el renting tienes mas servicios (pero es más caro)
+
+
+CONFIRMING = Medio de asegurar que vas a recibir el pago de la deuda
+
+
+FOMRAS JURIDICAS
+	Formas que adquiere una idea de negocios cumpliendo una serie de requisitos legales
+
+	- Adquisición de la persona jurídica.
+		- Redacción de 
+		- Acto de constitución ante notario. Una especie de "contacto"
+		- Certificación negativa de rs. Comprobar si el nombre existe en el registro
+		- Numero de la cuenta bancaria
+
+	- Responsabilidad
+		- Limitada: Ante deuda el acreedor solo echa mano a lo aportado en la empresa
+		- Ilimitada: Ante a las aportaciones que haga el socio. Ante deuda se puede echar mano tanto a patrimonio como a la empresa
+		- Solidaria: Ante deuda se puede acudir a los socios de manera indistinta
+		- Subsidiaria: Ante deuda se puede acudir a los socios de manera ordenada
